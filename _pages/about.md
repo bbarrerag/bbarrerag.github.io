@@ -37,3 +37,9 @@ My research interests include:
 - Hybrid quantum-classical algorithms and phase space representations of quantum dynamics
 - Superconducting qubits and circuit QED
 - Electron-phonon interactions
+
+## Publications
+
+<div class="publications">
+{% bibliography --group_by none %}
+</div>
