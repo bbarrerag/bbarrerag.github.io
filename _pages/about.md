@@ -27,7 +27,7 @@ Hi, I'm Bernardo! I am a PhD candidate in Physics at Boston University, working 
 [Anushya Chandran](https://www.bu.edu/physics/profile/anushya-chandran/) and
 [Anatoli Polkovnikov](https://www.bu.edu/physics/profile/anatoli-polkovnikov/).
 
-My PhD work has primarily focused on developing novel mixed quantum-classical methods for non-adiabatic dynamics, with applications to quantum chemistry and condensed matter systems. I also collaborate closely with the Kollár group at the University of Maryland on circuit QED experiments.
+My PhD work has primarily focused on developing novel mixed quantum-classical methods for non-adiabatic dynamics, with applications to quantum chemistry and condensed matter systems. I also collaborate closely with the [Kollár group](https://kollarlab.umd.edu/) at the University of Maryland on circuit QED experiments.
 
 My research interests include:
 
