@@ -18,7 +18,7 @@ A brief summary of the projects I have been most excited about during my PhD!
 
 <img src="{{ '/assets/img/publication_preview/bucket.png' | relative_url }}"
      alt="The Moving Born-Oppenheimer approximation"
-     style="float: right; width: 350px; margin: 0 0 1rem 1.5rem;">
+     style="float: right; width: 400px; margin: 0 0 1rem 1.5rem;">
 
 Many systems in nature exhibit phenomena occurring on widely different timescales. This so-called *timescale separation* between slow and fast components often allows us to simplify the description of complex systems. An everyday example is a swinging bucket of water. If the bucket swings slowly, we can assume the water surface remains nearly horizontal, remaining in instantaneous equilibrium at every instant of time.
 
@@ -36,7 +36,7 @@ A large part of my PhD has been devoted to developing techniques to describe sys
 
 <img src="{{ '/assets/img/publication_preview/pump.png' | relative_url }}"
      alt="The Quantum Topological Photon Pump"
-     style="float: right; width: 350px; margin: 0 0 1rem 1.5rem;">
+     style="float: right; width: 400px; margin: 0 0 1rem 1.5rem;">
 
 Topology is an exciting tool for engineering quantum systems. Topological phenomena are robust, and can remain remarkably insensitive to the microscopic noise and imperfections that often abound in quantum systems.
 
