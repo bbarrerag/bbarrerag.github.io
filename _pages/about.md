@@ -44,6 +44,6 @@ My research interests include:
 {% bibliography --group_by none %}
 </div>
 
-<div style="margin-top: 4rem; text-align: right; font-size: 0.75rem; color: #999; font-style: italic;">
+<div style="margin-top: 4rem; text-align: right; font-size: 0.73rem; color: #999; font-style: italic;">
 “Cuando abra la puerta y me asome a la escalera, sabré que abajo empieza la calle; no el molde ya aceptado, no las casas ya sabidas, no el hotel de enfrente; la calle, la viva floresta donde cada instante puede arrojarse sobre mí como una magnolia, donde las caras van a nacer cuando las mire, cuando avance un poco más, cuando con los codos y las pestañas y las uñas me rompa minuciosamente contra la pasta del ladrillo de cristal, y juegue mi vida mientras avanzo paso a paso para ir a comprar el diario a la esquina.” — Julio Cortázar
 </div>
