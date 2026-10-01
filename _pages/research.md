@@ -1,6 +1,6 @@
 ---
 layout: page
-title:
+title: research
 permalink: /research/
 nav: true
 nav_order: 2
@@ -11,7 +11,7 @@ A brief summary of the projects that have consumed most of my enthusiasm during 
 ### Non-adiabatic Dynamics: Moving Beyond the Born-Oppenheimer Approximation
 
 <img src="{{ '/assets/img/publication_preview/bucket.png' | relative_url }}"
-     alt="Moving Born-Oppenheimer approximation"
+     alt="The Moving Born-Oppenheimer approximation"
      style="float: right; width: 250px; margin: 0 0 1rem 1.5rem;">
 
 Many systems in nature exhibit phenomena occurring on widely different timescales. This so-called *timescale separation* between slow and fast components often allows us to simplify the description of complex systems. An everyday example is a swinging bucket of water. If the bucket swings slowly, we can assume the water surface remains nearly horizontal, remaining in instantaneous equilibrium at every instant of time.
@@ -28,13 +28,15 @@ A large part of my PhD has been devoted to developing techniques to describe sys
 
 ### Topology in Circuit QED
 
-Topology has become an important tool in quantum physics because topological phenomena can be remarkably insensitive to microscopic details and control imperfections. This robustness makes topology especially appealing in quantum systems, where noise and imperfect control are often unavoidable.
+<img src="{{ '/assets/img/publication_preview/pump.png' | relative_url }}"
+     alt="The Quantum Topological Photon Pump"
+     style="float: right; width: 250px; margin: 0 0 1rem 1.5rem;">
 
-Topological pumps exploit this idea to transfer quantities such as charge or energy in a way that is quantized by the topology of the underlying quantum states. A photonic version of such a pump could therefore provide a robust way of preparing non-classical states of a quantum cavity, even in the presence of control imperfections.
+Topology has become an exciting tool for engineering quantum systems. Topological phenomena are robust, and can remain remarkably insensitive to the microscopic noise and imperfections that often abound in quantum systems.
 
-In collaboration with the Kollár group at the University of Maryland, we developed the first experimental realization of a quantum topological photon pump using a transmon qubit coupled to a microwave cavity. Starting from the vacuum state, the pump transfers photons into the cavity over successive cycles, reaching approximately seven photons and producing demonstrably non-classical cavity states during the first few cycles.
+*Topological photon pumps* exploit this principle to robustly transfer energy between two subsystems at a rate that is quantized and insensitive to details of the control protocol. In particular, they offer a promising route for reliably preparing non-classical states of a quantum cavity even in the presence of control imperfections.
 
-My role in this project has focused on theoretical modeling and numerical simulations, interpreting the experimental results, and helping identify new experimental directions.
+In collaboration with the [Kollár group](https://kollarlab.umd.edu/) at the University of Maryland, we developed the first experimental realization of a quantum topological photon pump using a transmon qubit coupled to a microwave cavity. We further demonstrated operation of the pump in the quantum regime: starting from the vacuum, the pump transfers energy into the cavity up to a photon number of approximately $n\approx 7$, and produces demonstrably non-classical cavity states for the first few cycles.
 
 **Related publications**
 
