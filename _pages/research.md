@@ -36,7 +36,7 @@ A large part of my PhD has been devoted to developing techniques to describe sys
 
 <img src="{{ '/assets/img/publication_preview/pump.png' | relative_url }}"
      alt="The Quantum Topological Photon Pump"
-     style="float: right; width: 400px; margin: 0 0 1rem 1.5rem;">
+     style="float: right; width: 325px; margin: 0 0 1rem 1.5rem;">
 
 Topology is an exciting tool for engineering quantum systems. Topological phenomena are robust, and can remain remarkably insensitive to the microscopic noise and imperfections that often abound in quantum systems.
 
