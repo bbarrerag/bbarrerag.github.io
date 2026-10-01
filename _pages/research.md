@@ -1,22 +1,24 @@
 ---
 layout: page
-title: research
+title:
 permalink: /research/
 nav: true
 nav_order: 2
 ---
 
-Here is a brief summary of the research projects that have consumed most of my time, attention, and enthusiasm during my PhD.
+A brief summary of the projects that have consumed most of my enthusiasm during my PhD!
 
-## Non-adiabatic Dynamics: Moving Beyond the Born-Oppenheimer Approximation
+### Non-adiabatic Dynamics: Moving Beyond the Born-Oppenheimer Approximation
 
-Many systems in nature exhibit phenomena occurring on widely different timescales. This so-called *timescale separation* between slow and fast components often allows us to greatly simplify the description of complex systems. An everyday example is a swinging bucket of water. If the bucket swings slowly enough, we can assume that the water surface remains nearly horizontal, staying close to instantaneous equilibrium throughout the motion.
+<img src="{{ '/assets/img/publication_preview/bucket.png' | relative_url }}"
+     alt="Moving Born-Oppenheimer approximation"
+     style="float: right; width: 250px; margin: 0 0 1rem 1.5rem;">
 
-A century ago, Born and Oppenheimer applied this simple idea to molecular systems, where a similar separation of timescales arises from the large difference between nuclear and electronic masses. Today, the [Born–Oppenheimer approximation](https://doi.org/10.1002/andp.19273892002) (BOA) remains a foundational method across both quantum chemistry and condensed matter physics. However, it can fail when the motion of the slow degrees of freedom becomes sufficiently fast, motivating the development of techniques that go beyond the adiabatic limit.
+Many systems in nature exhibit phenomena occurring on widely different timescales. This so-called *timescale separation* between slow and fast components often allows us to simplify the description of complex systems. An everyday example is a swinging bucket of water. If the bucket swings slowly, we can assume the water surface remains nearly horizontal, remaining in instantaneous equilibrium at every instant of time.
 
-A large part of my PhD has been devoted to developing ways of thinking about this regime. Drawing on connections between quantum geometry and non-adiabatic response, we developed a systematic extension of the BOA that we termed the [Moving Born–Oppenheimer approximation](https://doi.org/10.1073/pnas.2507816123). Like in the conventional BOA, the fast degrees of freedom follow a state determined by the slow ones. Unlike in the BOA, however, this state is not in instantaneous equilibrium: it instead occupies what we call a "moving," or MBO, equilibrium that depends on the motion of the slow degrees of freedom.
+A century ago, Born and Oppenheimer applied this simple idea to molecular systems, where a similar timescale separation arises from the large difference between nuclear and electronic masses. Today, the Born–Oppenheimer approximation (BOA) remains a foundational method across both quantum chemistry and condensed matter physics. However, there are many settings in which it fails (e.g. in the computation of reaction rates and molecular spectra), and there is significant interest in developing robust methods to go beyond it.
 
-We have used this framework to study phenomena including spin entanglement, squeezing, and synchronized time-dependent states generated through motion. More broadly, we hope that it provides a useful language for describing non-adiabatic quantum dynamics whenever a separation of timescales remains meaningful even though strict adiabaticity has broken down.
+A large part of my PhD has been devoted to developing techniques to describe systems beyond the Born-Oppenheimer limit. Drawing from ideas connecting quantum geometry and non-adiabatic response, we developed a systematic extension of the BOA that we termed the [Moving Born–Oppenheimer approximation](https://doi.org/10.1073/pnas.2507816123). We are very excited in exploring the consequences of this framework across a range of settings, including quantum chemistry, electron-phonon systems, and quantum geometry away from equilibrium. 
 
 **Related publications**
 
@@ -24,7 +26,7 @@ We have used this framework to study phenomena including spin entanglement, sque
 - **B. Barrera**, N. Verma, R. Queiroz, A. Polkovnikov, and A. Chandran, *Kinematic Quantum Geometry* (manuscript in preparation).
 
 
-## Topology in Circuit QED
+### Topology in Circuit QED
 
 Topology has become an important tool in quantum physics because topological phenomena can be remarkably insensitive to microscopic details and control imperfections. This robustness makes topology especially appealing in quantum systems, where noise and imperfect control are often unavoidable.
 
