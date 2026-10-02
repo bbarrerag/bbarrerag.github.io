@@ -38,6 +38,8 @@ My research interests include:
 - Superconducting qubits and circuit QED
 - Electron-phonon interactions
 
+See my publications and recent work on [Google Scholar](https://scholar.google.com/citations?user=WKppAe8AAAAJ&hl=en).
+
 ## Publications
 
 <div class="publications">
