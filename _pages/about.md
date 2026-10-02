@@ -33,9 +33,9 @@ My research interests include:
 
 - Non-equilibrium dynamics in quantum many-body systems
 - Quantum geometry and topology
+- Circuit QED
 - Non-adiabatic dynamics in quantum chemistry and condensed matter
 - Hybrid quantum-classical algorithms and phase space representations of quantum dynamics
-- Circuit QED
 - Electron-phonon interactions
 
 See my publications and recent work on [Google Scholar](https://scholar.google.com/citations?user=WKppAe8AAAAJ&hl=en).
