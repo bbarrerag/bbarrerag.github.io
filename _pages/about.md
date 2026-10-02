@@ -35,7 +35,7 @@ My research interests include:
 - Quantum geometry and topology
 - Non-adiabatic dynamics in quantum chemistry and condensed matter
 - Hybrid quantum-classical algorithms and phase space representations of quantum dynamics
-- Superconducting qubits and circuit QED
+- Circuit QED
 - Electron-phonon interactions
 
 See my publications and recent work on [Google Scholar](https://scholar.google.com/citations?user=WKppAe8AAAAJ&hl=en).
